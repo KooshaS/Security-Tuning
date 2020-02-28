@@ -1,0 +1,4 @@
+Threat Model 4:
+
+In this model, adversary develops a surrogate model using the stolen test
+data and generates adversarial samples using the surrogate model and hill-climbing.

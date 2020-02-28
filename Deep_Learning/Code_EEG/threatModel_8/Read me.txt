@@ -1,0 +1,3 @@
+Threat Model 8:
+
+In this model, adversary develops a surrogate model using some surrogate data and generates adversarial samples using the surrogate model and optimization methods.

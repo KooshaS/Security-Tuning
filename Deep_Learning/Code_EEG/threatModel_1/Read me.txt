@@ -1,0 +1,6 @@
+Threat Model 1:
+
+In this model, adversary only knows about the type of input data, its size,
+and value range. In this case, adversarial samples are generated randomly.
+In addition to the classifier, a replay attack detector may also block the
+samples.

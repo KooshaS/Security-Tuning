@@ -1,0 +1,3 @@
+Threat Model 7:
+
+In this model, adversary develops a surrogate model using some available surrogate data and generates adversarial samples using the surrogate model and hill-climbing.

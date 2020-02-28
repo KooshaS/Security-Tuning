@@ -1,0 +1,4 @@
+Threat Model 3:
+
+In this model, adversary adds some noise to stolen data to pass the replay
+attack detector and ueses it for attack.

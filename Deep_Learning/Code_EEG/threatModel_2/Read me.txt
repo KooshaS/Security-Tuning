@@ -1,0 +1,5 @@
+Threat Model 2:
+
+In this model, adversary has some surrogate data (EEG data from another user)
+and ueses it for attack. In addition to the classifier, a replay attack
+detector may also block the samples.
